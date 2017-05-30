@@ -1,0 +1,5 @@
+Some interesting questions to get you started:
+
+Which countries will lose population over the next 35 years?
+Which countries have the lowest/highest population density?
+Which countries receive the most immigrants? Which countries lose the most emigrants?
