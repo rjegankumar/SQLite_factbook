@@ -7,6 +7,7 @@ The [World Factbook](https://www.cia.gov/library/publications/the-world-factbook
 | File name | Description |
 | :--- | :--- |
 | area.py | Python script to calculate land to water area ratio |
+| environment.yml | Conda environment YAML |
 | factbook.db | CIA World factbook database |
 | growth.py | Python script to compute the population growth |
 | next_steps.txt | Ideas to further explore the database |
